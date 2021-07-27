@@ -19,7 +19,6 @@ Create environment:
 Activate the virtual environment:  
 `source venv-ww/bin/activate`
 
-# TODO add requirements.txt
 Install dependent libraries:
 `pip3 install -r requirements.txt` 
 
