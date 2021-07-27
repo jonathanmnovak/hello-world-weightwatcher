@@ -24,5 +24,4 @@ Install dependent libraries:
 `pip3 install -r requirements.txt` 
 
 # Tutorial
-See the `notebooks` directory for jupyter notebooks which contain the tutorial 
-code.
+See the `notebooks/WeightWatcher-Tutorial.ipynb` for tutorial code and analysis.
